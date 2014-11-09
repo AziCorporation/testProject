@@ -10,6 +10,7 @@
 
 @class ViewController;
 //@end
+//коммент
 
 
 @interface AppDelegate : UIResponder <UIApplicationDelegate>
