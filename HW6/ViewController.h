@@ -2,7 +2,7 @@
 //  ViewController.h
 //  HW6
 //
-//  Created by Administrator lepshi on 06.11.14.
+//  Created by Александр Галко on 09.11.14.
 //  Copyright (c) 2014 Administrator lepshi. All rights reserved.
 //
 
@@ -10,6 +10,4 @@
 
 @interface ViewController : UIViewController
 
-
 @end
-
